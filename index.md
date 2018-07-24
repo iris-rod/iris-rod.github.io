@@ -6,15 +6,14 @@ layout: default
 ## Poster MobileHCI 2018 
 **AidMe: Interactive Non-Visual Smartphone Tutorials**
 
-AidMe is a system-wide authoring and playthrough of non-visual interactive tutorials. Tutorials are created via user demonstration and narration. We relied on AidMe to conduct a preliminary study with 11 blind participants gaining insights into the development of accessible interactive non-visual tutorials. [PDF](./pub/mobilehci18_aidme.pdf)
+André Rodrigues, Leonardo Camacho, Hugo Nicolau, Kyle Montague, Tiago Guerreiro
 
-## Paper ASSETS 2018 
-**What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots**
-<p align="center">
-    <img src="https://github.com/AndreFPRodrigues/home/blob/master/img/assests2018.png?raw=true" alt="Blind person touching a robot extended arm"/>
-</p>
+ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, Barcelona, Spain, September, 2018 [PDF](./pub/mobilehci18_aidme.pdf)
 
-In this paper, we explore how assistive robots can go beyond information-giving assistive technologies (e.g., screen readers)by physically collaborating with blind people in an assembly task. [PDF](./pub/assets18_robot.pdf)
+## What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots
+Mayara Bonani, Raquel Oliveira, Filipa Correia, André Rodrigues, Tiago Guerreiro, Ana Paiva
+
+ACM ASSETS 2018 - 20th International ACM SIGACCESS Conference on Computers and Accessibility, Galway, Ireland, October, 2018 [PDF](./pub/assets18_robot.pdf)
 
 
 
