@@ -17,12 +17,13 @@
   <body>
     <header>
        
-      <div class="inner">
-     
+      <div class="inner"
           <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         </a>
+           <a href="{{ site.github.owner_url }}" class="button"><img src="mugshot.jpg" alt="André photo" /><small>Follow me on</small> GitHub</a>
+
 
       </div>
     </header>
@@ -36,7 +37,6 @@
         <aside id="sidebar">
             <h2> <a href="{{ site.github.publications }}">Publications</a> </h3>
             <h2> <a href="{{ site.github.aboutme }}">About Me</a> </h2>
-            <img src="https://raw.githubusercontent.com/AndreFPRodrigues/home/master/img/mugshot.png" alt="André Photo">
 
         </aside>
       </div>
