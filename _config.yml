@@ -1,5 +1,6 @@
 title: André Rodrigues
 show_downloads: "false"
 description: PhD Student at LASIGE, Universidade de Lisboa
-
+github:
+  aboutme: aboutme.html
 theme: jekyll-theme-architect
