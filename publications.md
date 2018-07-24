@@ -55,45 +55,45 @@ Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau,
 MobileHCI 2016 - 18th International Conference on Human-Computer Interaction with Mobile Devices and Services, Florence, Italy, September, 2016 
 * * *
 
-## Towards Inviscid Text-Entry for Blind People through Non-Visual Word Prediction Interfaces
+## Towards Inviscid Text-Entry for Blind People through Non-Visual Word Prediction Interfaces [PDF](./pub/chiworkshop_typing.pdf)
 Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves 
-ACM CHI 2016 Workshop on Inviscid Text Entry and Beyond, San Jose, USA, April, 2016 [PDF](./pub/chiworkshop_typing.pdf)
+ACM CHI 2016 Workshop on Inviscid Text Entry and Beyond, San Jose, USA, April, 2016 
 
 # 2015 
-## Getting Smartphones to TalkBack: Understanding the Smartphone Adoption Process of Blind Users 
+## Getting Smartphones to TalkBack: Understanding the Smartphone Adoption Process of Blind Users  [PDF](./pub/assets15_adoption.pdf)
 André Rodrigues, Kyle Montague, Hugo Nicolau, Tiago Guerreiro
-ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015  [PDF](./pub/assets15_adoption.pdf)
+ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015 
 * * *
 
-## TabLETS Get Physical: Non-Visual Text Entry on Tablet Devices
+## TabLETS Get Physical: Non-Visual Text Entry on Tablet Devices  [PDF](./pub/chi_tablets.pdf)
 João Guerreiro, André Rodrigues, Kyle Montague, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
-ACM CHI 2015 - ACM Conference on Human Factors in Computing Systems, Seoul, South Korea, April, 2015  [PDF](./pub/chi_tablets.pdf)
+ACM CHI 2015 - ACM Conference on Human Factors in Computing Systems, Seoul, South Korea, April, 2015 
 * * *
 
-## TinyBlackBox: Recovering the Lost Interactions of Mobile In-the-Wild Studies
+## TinyBlackBox: Recovering the Lost Interactions of Mobile In-the-Wild Studies [PDF](./pub/assets_tbb.pdf)
 Kyle Montague, André Rodrigues, Hugo Nicolau, Tiago Guerreiro
-ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015  [PDF](./pub/assets_tbb.pdf)
+ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015  
 * * *
 
-## Breaking Barriers with Assistive Macros
+## Breaking Barriers with Assistive Macros  [PDF](./pub/assets_macros.pdf)
 ASSETS '15 Proceedings of the 17th International ACM SIGACCESS Conference on Computers & Accessibility
-Pages 351-352   [PDF](./pub/assets_macros.pdf)
+Pages 351-352  
 * * *
 
-## Typing Performance of Blind Users: An Analysis of Touch Behaviors, Learning Effect, and In-Situ Usage
+## Typing Performance of Blind Users: An Analysis of Touch Behaviors, Learning Effect, and In-Situ Usage  [PDF](./pub/assets_touchbehaviours.pdf)
 Hugo Nicolau, Kyle Montague, André Rodrigues, Tiago Guerreiro, Vicki Hanson
-ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015  [PDF](./pub/assets_touchbehaviours.pdf)
+ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015 
 * * *
 
-## HoliBraille: Multipoint Vibrotactile Feedback on Mobile Devices
+## HoliBraille: Multipoint Vibrotactile Feedback on Mobile Devices [PDF](./pub/w4a_holibraille.pdf)
 Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson
-W4A 2015 - 12th International Web for All Conference, Florence, Italy, May, 2015  [PDF](./pub/w4a_holibraille.pdf)
+W4A 2015 - 12th International Web for All Conference, Florence, Italy, May, 2015  
 
 # 2014 
-## SWAT: Mobile System-Wide Assistive Technologies
-BCS-HCI '14 Proceedings of the 28th International BCS Human Computer Interaction Conference on HCI 2014 - Sand, Sea and Sky - Holiday HCI [PDF](./pub/british_swat.pdf)
+## SWAT: Mobile System-Wide Assistive Technologies [PDF](./pub/british_swat.pdf)
+BCS-HCI '14 Proceedings of the 28th International BCS Human Computer Interaction Conference on HCI 2014 - Sand, Sea and Sky - Holiday HCI 
 * * *
 
-## Mobile system-wide assistive technology
+## Mobile system-wide assistive technology  [PDF](./pub/master_thesis.pdf)
 André Rodrigues, Advisor: Tiago Guerreiro
-MSc Dissertation 2014  [PDF](./pub/master_thesis.pdf)
+MSc Dissertation 2014 
