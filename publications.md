@@ -3,10 +3,6 @@ layout: default
 ---
 
 # Publications
-<p align="center">
-## 2018 ##
-* * *
-</p>
 
 ## AidMe: Interactive Non-Visual Smartphone Tutorials
 
@@ -34,16 +30,32 @@ ACM CHI 2018 Late Breaking Work - Extended Abstracts of the ACM Conference on Hu
 ## Facilitating smartphone use for blind people through a human powered approach
 André Rodrigues
 Newsletter ACM SIGACCESS Accessibility and Computing Homepage archive
-Issue 120, January 2018 Pages 28-31 ACM New York, NY, USA  [PDF](./pub/chi18_datadonor.pdf)
+Issue 120, January 2018 Pages 28-31 ACM New York, NY, USA  [PDF](./pub/sigaccess_newsletter.pdf)
 
+* * *
 ## 2017 ##
-* * *
+## In-context Q&A to Support Blind People Using Smartphones
+André Rodrigues, Kyle Montague, Hugo Nicolau, João Guerreiro and Tiago Guerreiro ASSETS 2017 - 19th International ACM SIGACCESS Conference on Computers and Accessibility. Baltimore, Maryland, USA, October, 2017.  [PDF](./pub/assets17_hintme.pdf)
 
+## Improving Smartphone Accessibility with Personalizable Static Overlays
+André Rodrigues, André Santos, Kyle Montague and Tiago Guerreiro ASSETS 2017 - 19th International ACM SIGACCESS Conference on Computers and Accessibility. Baltimore, Maryland, USA, October, 2017. [PDF](./pub/assets17_static.pdf)
+
+## Investigating Laboratory and Everyday Typing Performance of Blind Users
+Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson ACM Transactions on Accessible Computing, 2017  [PDF](./pub/taccess_typing.pdf)
+
+* * *
 ## 2016 ##
-* * *
 
-## 2015 ##
+## Effect of Target Size on Non-Visual Text-Entry [Honorable Mention]
+Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
+MobileHCI 2016 - 18th International Conference on Human-Computer Interaction with Mobile Devices and Services, Florence, Italy, September, 2016  [PDF](./pub/mobilehci_tiny.pdf)
+
+## Towards Inviscid Text-Entry for Blind People through Non-Visual Word Prediction Interfaces
+Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves 
+ACM CHI 2016 Workshop on Inviscid Text Entry and Beyond, San Jose, USA, April, 2016 [PDF](./pub/chiworkshop_typing.pdf)
+
 * * *
+## 2015 ##
 
 ## 2014 ##
 * * *
