@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Authoring workflow](https://raw.githubusercontent.com/AndreFPRodrigues/home/master/img/postermobile.png) 
+![Mugshot](https://raw.githubusercontent.com/AndreFPRodrigues/home/master/img/mugshot.png) 
 
 >I love taking on challenges where we can leverage technology in novel ways to help others in need.
 
