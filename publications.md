@@ -36,7 +36,6 @@ André Rodrigues
 Newsletter ACM SIGACCESS Accessibility and Computing Homepage archive
 Issue 120, January 2018 [PDF](./pub/sigaccess_newsletter.pdf)
 
-* * *
 # 2017 
 ## In-context Q&A to Support Blind People Using Smartphones
 André Rodrigues, Kyle Montague, Hugo Nicolau, João Guerreiro and Tiago Guerreiro ASSETS 2017 - 19th International ACM SIGACCESS Conference on Computers and Accessibility. Baltimore, Maryland, USA, October, 2017.  [PDF](./pub/assets17_hintme.pdf)
@@ -48,7 +47,6 @@ André Rodrigues, André Santos, Kyle Montague and Tiago Guerreiro ASSETS 2017 -
 
 ## Investigating Laboratory and Everyday Typing Performance of Blind Users
 Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson ACM Transactions on Accessible Computing, 2017  [PDF](./pub/taccess_typing.pdf)
-* * *
 
 # 2016 
 
@@ -60,7 +58,6 @@ MobileHCI 2016 - 18th International Conference on Human-Computer Interaction wit
 ## Towards Inviscid Text-Entry for Blind People through Non-Visual Word Prediction Interfaces
 Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves 
 ACM CHI 2016 Workshop on Inviscid Text Entry and Beyond, San Jose, USA, April, 2016 [PDF](./pub/chiworkshop_typing.pdf)
-* * *
 
 # 2015 
 ## Getting Smartphones to TalkBack: Understanding the Smartphone Adoption Process of Blind Users 
@@ -91,7 +88,6 @@ ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Acces
 ## HoliBraille: Multipoint Vibrotactile Feedback on Mobile Devices
 Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson
 W4A 2015 - 12th International Web for All Conference, Florence, Italy, May, 2015  [PDF](./pub/w4a_holibraille.pdf)
-* * *
 
 # 2014 
 ## SWAT: Mobile System-Wide Assistive Technologies
