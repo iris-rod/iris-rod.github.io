@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-## Motivation
 >I love taking on challenges where we can leverage technology in novel ways to help others in need.
 
 ## About Me
