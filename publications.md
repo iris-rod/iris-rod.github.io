@@ -19,19 +19,19 @@ Mayara Bonani, Raquel Oliveira, Filipa Correia, André Rodrigues, Tiago Guerreir
 ACM ASSETS 2018 - 20th International ACM SIGACCESS Conference on Computers and Accessibility, Galway, Ireland, October, 2018 
 * * *
 
-## Hybrid-Brailler: Combining Physical and Gestural Interaction for Mobile Braille Input and Editing [PDF](./pub/chi18_hybrid.pdf)
+## Hybrid-Brailler: Combining Physical and Gestural Interaction for Mobile Braille Input and Editing [PDF](./pub/chi18_hybridbrailler.pdf)
 
 Daniel Trindade, André Rodrigues, Tiago Guerreiro, Hugo Nicolau
 ACM CHI 2018 - ACM Conference on Human Factors in Computing Systems, Montreal, Canada, May, 2018 
 * * *
 
-## Data Donors: Sharing Knowledge for Mobile Accessibility [PDF](./pub/chi18_datadonor.pdf)
+## Data Donors: Sharing Knowledge for Mobile Accessibility [PDF](./pub/chi18_data_donors.pdf)
 
 André Rodrigues, Kyle Montague, Tiago Guerreiro
 ACM CHI 2018 Late Breaking Work - Extended Abstracts of the ACM Conference on Human Factors in Computing Systems, Montreal, Canada, May, 2018 
 * * *
 
-## Facilitating smartphone use for blind people through a human powered approach [PDF](./pub/sigaccess_newsletter.pdf)
+## Facilitating smartphone use for blind people through a human powered approach [PDF](./pub/assets18_newsletter.pdf)
 André Rodrigues
 Newsletter ACM SIGACCESS Accessibility and Computing Homepage archive
 Issue 120, January 2018 
