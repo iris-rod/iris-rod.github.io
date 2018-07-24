@@ -8,6 +8,7 @@ layout: default
 
 André Rodrigues, Leonardo Camacho, Hugo Nicolau, Kyle Montague, Tiago Guerreiro
 ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, Barcelona, Spain, September, 2018 [PDF](./pub/mobilehci18_aidme.pdf)
+* * *
 
 ## What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots
 
@@ -16,6 +17,7 @@ ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction
 </p>
 Mayara Bonani, Raquel Oliveira, Filipa Correia, André Rodrigues, Tiago Guerreiro, Ana Paiva
 ACM ASSETS 2018 - 20th International ACM SIGACCESS Conference on Computers and Accessibility, Galway, Ireland, October, 2018 [PDF](./pub/assets18_robot.pdf)
+* * *
 
 ## Hybrid-Brailler: Combining Physical and Gestural Interaction for Mobile Braille Input and Editing
 
@@ -33,7 +35,7 @@ Newsletter ACM SIGACCESS Accessibility and Computing Homepage archive
 Issue 120, January 2018 Pages 28-31 ACM New York, NY, USA  [PDF](./pub/sigaccess_newsletter.pdf)
 
 * * *
-## 2017 ##
+# 2017 
 ## In-context Q&A to Support Blind People Using Smartphones
 André Rodrigues, Kyle Montague, Hugo Nicolau, João Guerreiro and Tiago Guerreiro ASSETS 2017 - 19th International ACM SIGACCESS Conference on Computers and Accessibility. Baltimore, Maryland, USA, October, 2017.  [PDF](./pub/assets17_hintme.pdf)
 
@@ -44,7 +46,7 @@ André Rodrigues, André Santos, Kyle Montague and Tiago Guerreiro ASSETS 2017 -
 Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson ACM Transactions on Accessible Computing, 2017  [PDF](./pub/taccess_typing.pdf)
 
 * * *
-## 2016 ##
+# 2016 
 
 ## Effect of Target Size on Non-Visual Text-Entry [Honorable Mention]
 Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
@@ -55,8 +57,33 @@ Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau,
 ACM CHI 2016 Workshop on Inviscid Text Entry and Beyond, San Jose, USA, April, 2016 [PDF](./pub/chiworkshop_typing.pdf)
 
 * * *
-## 2015 ##
+# 2015 
+## Getting Smartphones to TalkBack: Understanding the Smartphone Adoption Process of Blind Users 
+André Rodrigues, Kyle Montague, Hugo Nicolau, Tiago Guerreiro
+ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015  [PDF](./pub/assets15_adoption.pdf)
 
-## 2014 ##
+## TabLETS Get Physical: Non-Visual Text Entry on Tablet Devices
+João Guerreiro, André Rodrigues, Kyle Montague, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
+ACM CHI 2015 - ACM Conference on Human Factors in Computing Systems, Seoul, South Korea, April, 2015  [PDF](./pub/chi_tablets.pdf)
+
+
+## TinyBlackBox: Recovering the Lost Interactions of Mobile In-the-Wild Studies
+Kyle Montague, André Rodrigues, Hugo Nicolau, Tiago Guerreiro
+ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015  [PDF](./pub/assets_tbb.pdf)
+
+## Breaking Barriers with Assistive Macros
+ASSETS '15 Proceedings of the 17th International ACM SIGACCESS Conference on Computers & Accessibility
+Pages 351-352   [PDF](./pub/assets_macros.pdf)
+
+## Typing Performance of Blind Users: An Analysis of Touch Behaviors, Learning Effect, and In-Situ Usage
+Hugo Nicolau, Kyle Montague, André Rodrigues, Tiago Guerreiro, Vicki Hanson
+ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015  [PDF](./pub/assets_touchbehaviours.pdf)
+
+## HoliBraille: Multipoint Vibrotactile Feedback on Mobile Devices
+Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson
+W4A 2015 - 12th International Web for All Conference, Florence, Italy, May, 2015  [PDF](./pub/w4a_holibraille.pdf)
+
+
+# 2014 
 * * *
 
