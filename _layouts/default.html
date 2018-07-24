@@ -37,16 +37,18 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
-        <section id="main-content">
-          {{ content }}
-        </section>
-
+        
         <aside id="sidebar">
             <h2> <a href="{{ '/' | absolute_url }}">Home</a> </h2>
             <h2> <a href="{{ site.github.publications }}">Publications</a> </h2>
             <h2> <a href="{{ site.github.aboutme }}">About Me</a> </h2>
 
         </aside>
+        
+        <section id="main-content">
+          {{ content }}
+        </section>
+
       </div>
     </div>
 
