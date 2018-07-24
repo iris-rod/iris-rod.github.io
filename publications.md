@@ -7,7 +7,7 @@ layout: default
 ## AidMe: Interactive Non-Visual Smartphone Tutorials
 
 André Rodrigues, Leonardo Camacho, Hugo Nicolau, Kyle Montague, Tiago Guerreiro
-ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, Barcelona, Spain, September, 2018[PDF](./pub/mobilehci18_aidme.pdf)
+ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, Barcelona, Spain, September, 2018 [PDF](./pub/mobilehci18_aidme.pdf)
 
 ## What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots
 <p align="center">
