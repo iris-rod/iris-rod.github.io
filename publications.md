@@ -51,10 +51,9 @@ Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson ACM
 # 2016 
 
 ## Effect of Target Size on Non-Visual Text-Entry [PDF](./pub/mobilehci_tiny.pdf)
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Honorable Mention`
-
 André Rodrigues, Hugo Nicolau, Kyle Montague, Luís Carriço,  Tiago Guerreiro
-MobileHCI 2016 - 18th International Conference on Human-Computer Interaction with Mobile Devices and Services, Florence, Italy, September, 2016 
+MobileHCI 2016 - 18th International Conference on Human-Computer Interaction with Mobile Devices and Services, Florence, Italy, September, 2016 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Honorable Mention`
+
 
 * * *
 
