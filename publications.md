@@ -3,8 +3,10 @@ layout: default
 ---
 
 # Publications
+<p align="center">
 ## 2018 ##
 * * *
+</p>
 
 ## AidMe: Interactive Non-Visual Smartphone Tutorials
 
