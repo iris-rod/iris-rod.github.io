@@ -12,19 +12,6 @@ A set of selected publications on my main areas of research. For a complete list
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
 {% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
 
-<div class="filters">
-	<ul class="filter-details">
-		<li><a href="#" id="all">Show All</a></li>	
-		{% for y in ys reversed %}		
-			<li><a href="#" id="{{ y }}">{{ y }}</a></li>		
-		{% endfor %}
-		<br />
-		{% for tag in tags %}		
-			<li><a href="#" id="{{ tag }}">{{ tag }}</a></li>		
-		{% endfor %}
-		
-	</ul>
-</div>
 
 <div class="posts-list">
 	
