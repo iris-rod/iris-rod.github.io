@@ -5,10 +5,7 @@ layout: default
 
 ## Poster MobileHCI 2018 
 **AidMe: Interactive Non-Visual Smartphone Tutorials**
-
-André Rodrigues, Leonardo Camacho, Hugo Nicolau, Kyle Montague, Tiago Guerreiro
-
-ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, Barcelona, Spain, September, 2018 [PDF](./pub/mobilehci18_aidme.pdf)
+AidMe is a system-wide authoring and playthrough of non-visual interactive tutorials. Tutorials are created via user demonstration and narration. We relied on AidMe to conduct a preliminary study with 11 blind participants gaining insights into the development of accessible interactive non-visual tutorials.[PDF](./pub/mobilehci18_aidme.pdf)
 
 ## Paper ASSETS 2018 
 **What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots**
