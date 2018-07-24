@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Octocat](https://github.com/AndreFPRodrigues/home/blob/master/img/posterMobile.png) 
+![Authoring workflow](https://raw.githubusercontent.com/AndreFPRodrigues/home/master/img/postermobile.png) 
 >I love taking on challenges where we can leverage technology in novel ways to help others in need.
 
 ## About Me
