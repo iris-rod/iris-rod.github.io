@@ -4,10 +4,10 @@ layout: default
 
 # Publications
 
-## AidMe: Interactive Non-Visual Smartphone Tutorials
+## AidMe: Interactive Non-Visual Smartphone Tutorials [PDF](./pub/mobilehci18_aidme.pdf)
 
 André Rodrigues, Leonardo Camacho, Hugo Nicolau, Kyle Montague, Tiago Guerreiro
-ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, Barcelona, Spain, September, 2018 [PDF](./pub/mobilehci18_aidme.pdf)
+ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, Barcelona, Spain, September, 2018 
 * * *
 
 ## What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots
@@ -50,7 +50,6 @@ André Rodrigues, André Santos, Kyle Montague and Tiago Guerreiro ASSETS 2017 -
 Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson ACM Transactions on Accessible Computing, 2017  [PDF](./pub/taccess_typing.pdf)
 * * *
 
-* * *
 # 2016 
 
 ## Effect of Target Size on Non-Visual Text-Entry [Honorable Mention]
