@@ -81,7 +81,7 @@ ACM CHI 2016 Workshop on Inviscid Text Entry and Beyond, San Jose, USA, April, 2
     <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/adoptionAssets15.jpg?raw=true" alt="A blind person sitting on a park bench using its mobile device."/>
 </p>
 André Rodrigues, Kyle Montague, Hugo Nicolau, Tiago Guerreiro
-ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015 
+ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015 [cite](./bibtex/2809842.bib)
 * * *
 
 ## TabLETS Get Physical: Non-Visual Text Entry on Tablet Devices  [PDF](./pub/chi_tablets.pdf)
