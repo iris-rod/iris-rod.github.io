@@ -126,7 +126,7 @@ W4A 2015 - 12th International Web for All Conference, Florence, Italy, May, 2015
 # 2014 
 ## SWAT: Mobile System-Wide Assistive Technologies [PDF](./pub/british_swat.pdf)
 <p align="center">
-    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/swat.jpg?raw=true" alt="A multi-impaired user with a mouse. It also shows two individual screens of a Android home screen with a grid scanning technique highlighted."/>
+    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/swat.png?raw=true" alt="A multi-impaired user with a mouse. It also shows two individual screens of a Android home screen with a grid scanning technique highlighted."/>
 </p>
 BCS-HCI '14 Proceedings of the 28th International BCS Human Computer Interaction Conference on HCI 2014 - Sand, Sea and Sky - Holiday HCI 
 * * *
