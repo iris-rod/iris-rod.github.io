@@ -21,25 +21,33 @@ ACM ASSETS 2018 - 20th International ACM SIGACCESS Conference on Computers and A
 
 ## Hybrid-Brailler: Combining Physical and Gestural Interaction for Mobile Braille Input and Editing [PDF](./pub/chi18_hybridbrailler.pdf)
 <p align="center">
-    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/hybridChi15_1.png?raw=true" alt="Blind person touching a robot extended arm"/>
+    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/hybridChi15_1.png?raw=true" alt="Hybrid-Brailler prototype. A 3D printed case with 9 tactile buttons on the back of the device."/>
 </p>
 Daniel Trindade, André Rodrigues, Tiago Guerreiro, Hugo Nicolau
 ACM CHI 2018 - ACM Conference on Human Factors in Computing Systems, Montreal, Canada, May, 2018 
 * * *
 
 ## Data Donors: Sharing Knowledge for Mobile Accessibility [PDF](./pub/chi18_data_donors.pdf)
-
+<p align="center">
+    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/data_donor_poster.jpg?raw=true" alt="Data donor poster"/>
+</p>
 André Rodrigues, Kyle Montague, Tiago Guerreiro
 ACM CHI 2018 Late Breaking Work - Extended Abstracts of the ACM Conference on Human Factors in Computing Systems, Montreal, Canada, May, 2018 
 * * *
 
 ## Facilitating smartphone use for blind people through a human powered approach [PDF](./pub/assets18_newsletter.pdf)
+<p align="center">
+    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/DSC_0033.JPG?raw=true" alt="A blind person using an headset and exploring a smartphone touchscreen with explore by touch."/>
+</p>
 André Rodrigues
 Newsletter ACM SIGACCESS Accessibility and Computing Homepage archive
 Issue 120, January 2018 
 
 # 2017 
 ## In-context Q&A to Support Blind People Using Smartphones [PDF](./pub/assets17_hintme.pdf)
+<p align="center">
+    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/hintmeAssets17.png?raw=true" alt="A blind person using an headset and exploring a smartphone touchscreen with explore by touch."/>
+</p>
 André Rodrigues, Kyle Montague, Hugo Nicolau, João Guerreiro and Tiago Guerreiro ASSETS 2017 - 19th International ACM SIGACCESS Conference on Computers and Accessibility. Baltimore, Maryland, USA, October, 2017.  
 * * *
 
