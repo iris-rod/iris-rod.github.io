@@ -13,14 +13,16 @@ ACM MOBILECHI 2018 - 20th International Conference on Human-Computer Interaction
 ## What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots [PDF](./pub/assets18_robot.pdf)
 
 <p align="center">
-    <img src="https://github.com/AndreFPRodrigues/home/blob/master/img/assests2018.png?raw=true" alt="Blind person touching a robot extended arm"/>
+    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/assests2018.png?raw=true" alt="Blind person touching a robot extended arm"/>
 </p>
 Mayara Bonani, Raquel Oliveira, Filipa Correia, André Rodrigues, Tiago Guerreiro, Ana Paiva
 ACM ASSETS 2018 - 20th International ACM SIGACCESS Conference on Computers and Accessibility, Galway, Ireland, October, 2018 
 * * *
 
 ## Hybrid-Brailler: Combining Physical and Gestural Interaction for Mobile Braille Input and Editing [PDF](./pub/chi18_hybridbrailler.pdf)
-
+<p align="center">
+    <img src="https://github.com/AndreFPRodrigues/andrefprodrigues.github.io/blob/master/img/hybridChi15_1.png?raw=true" alt="Blind person touching a robot extended arm"/>
+</p>
 Daniel Trindade, André Rodrigues, Tiago Guerreiro, Hugo Nicolau
 ACM CHI 2018 - ACM Conference on Human Factors in Computing Systems, Montreal, Canada, May, 2018 
 * * *
