@@ -23,12 +23,10 @@ This was a game that I made in my final project in my BSc in Computer Engeneerin
 
 * * *
 
-## Other smaller projects
-
-### Hive
+## Hive
 This was the final project of one of the programming classes I took in my first year of BSc. We had to create the board game Hive in Java from scratch with all of the different rules of movement for each piece.
  
-### Soul Syphon
+## Soul Syphon
 This was also a final project for one of the programming classes of my first year of BSc. We had to create a game, in Python, based on three mechanics:
 - There had to be some type of 'diver';
 - 'Treasures' to the 'diver' collect;
