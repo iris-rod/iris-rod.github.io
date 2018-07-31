@@ -3,24 +3,20 @@ layout: default
 ---
 # Latest News
 
-## Poster MobileHCI 2018 
-**AidMe: Interactive Non-Visual Smartphone Tutorials [PDF](./pub/mobilehci18_aidme.pdf)**
-
-AidMe is a system-wide authoring and playthrough of non-visual interactive tutorials. Tutorials are created via user demonstration and narration. We relied on AidMe to conduct a preliminary study with 11 blind participants gaining insights into the development of accessible interactive non-visual tutorials.
+## Game to teach Organic Chemistry
+This is the final project of my MSc which I am currently working on. It is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
 
 
 *** 
 
-## Paper ASSETS 2018 
-**What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots [PDF](./pub/assets18_robot.pdf)**
+## Global Game Jam 2018 Participation
+I participated in the Global Game Jam 2018 edition and created a fun multiplayer game with some friends. 
+
+Three amigos from the latino side of America want to feed their family and get a nice job in the land of the free. But there is only one passport! Cooperate with your fellows to cross the border without getting caught by the Immigration Control.
+
 <p align="center">
-    <img src="https://github.com/AndreFPRodrigues/home/blob/master/img/assests2018.png?raw=true" alt="Blind person touching a robot extended arm"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/GGJ.png?raw=true" width="40%"/>
 </p>
-
-In this paper, we explore how assistive robots can go beyond information-giving assistive technologies (e.g., screen readers) by physically collaborating with blind people in an assembly task. 
-
-
-
 
 
 
