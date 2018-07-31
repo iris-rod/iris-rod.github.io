@@ -3,5 +3,6 @@ show_downloads: "false"
 description: 
 github:
   aboutme: aboutme.html
-  portfolio: portfolio.html
+  BScProjects: BScProjects.html
+  MScProjects: MScProjects.html
 theme: jekyll-theme-architect
