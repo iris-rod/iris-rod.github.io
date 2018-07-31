@@ -26,4 +26,4 @@ This is the final project of my MSc which I am currently working on. It is a gam
 
 The game is based on what the students need to learn in highschool and it has several challenges such as, creating molecules from scratch, transform a molecule from a functional group into another, complete a partially built molecule knowing what it's struture is and answering different questions about the molecules.
 
-[!https://i9.ytimg.com/vi/JUS8Cv2KCvs/2.jpg?sqp=CKSDgtsF&rs=AOn4CLDu-V0S0NRbcYrxhA2-b53CWGf-PA](https://www.youtube.com/watch?v=JUS8Cv2KCvs&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/JUS8Cv2KCvs)
