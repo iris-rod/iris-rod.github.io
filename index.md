@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Latest News
+# Latest Projects
 
 ## Game to teach Organic Chemistry
 This is the final project of my MSc which I am currently working on. It is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
