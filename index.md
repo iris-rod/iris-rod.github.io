@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+Welcome to my portfolio page! I'm in the process of gathering all the projects that I have done up until now, so keep an eye out for more information about my work in the near future.
+
 # Latest News
 
 ## Game to teach Organic Chemistry
