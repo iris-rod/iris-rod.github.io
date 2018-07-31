@@ -5,16 +5,16 @@
 This game had an initial version created during the classes of Game Design and a second and final one created during the classes of Game Development and Methodology. In the first version, you are a young men who wakes up in a village burning down and you hear the screams of a little girl. You don't recall anything about who you are, where you are and what has happened with you, and your only companion on your Journey is a shape shifting weapon that is with you when you wake up and it is able to talk to you. 
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ2.png?raw=true" width="35%"/>
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ4.png?raw=true" width="35%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ2.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ4.png?raw=true" width="40%"/>
 </p>
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ5.png?raw=true" width="35%"/>
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ3.png?raw=true" width="35%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ5.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ3.png?raw=true" width="40%"/>
 </p>
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ1.png?raw=true" width="35%"/>
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ6.png?raw=true" width="35%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ1.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ6.png?raw=true" width="45%"/>
 </p>
 
 [42 Pieces of Story](https://www.youtube.com/watch?v=oQYL_AWhaRA&feature=youtu.be)
