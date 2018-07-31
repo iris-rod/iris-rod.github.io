@@ -18,6 +18,9 @@ This was a game that I made in my final project in my BSc in Computer Engeneerin
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL2.png?raw=true" width="30%"/>
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL3.png?raw=true" width="30%"/>
 </p>
+
+[![Gestura]](https://www.youtube.com/watch?v=1hmh2dQ8HH0&feature=youtu.be)
+
 * * *
 
 ## Other smaller projects
@@ -50,7 +53,7 @@ This game had an initial version created during the classes of Game Design and a
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ3.png?raw=true" width="30%"/>
 </p>
 
-[![42 Pieces of Story]()](https://www.youtube.com/watch?v=oQYL_AWhaRA&feature=youtu.be)
+[![42 Pieces of Story]](https://www.youtube.com/watch?v=oQYL_AWhaRA&feature=youtu.be)
 
 In the second version, you are a young man living a quiet life in your small peacefull village, when suddenly everything changes. You wake up to a destroyed land where there used to be so much life. You begin your journey to try and rebuild your village, helping others and fnding out who turn your home into a hellish place.
 
