@@ -19,8 +19,9 @@ This was a game that I made in my final project in my BSc in Computer Engeneerin
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL3.png?raw=true" width="30%"/>
 </p>
 
-[Gestura](https://www.youtube.com/watch?v=1hmh2dQ8HH0&feature=youtu.be)
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1hmh2dQ8HH0&feature=youtu.be"><img src="img/VideoGestura.png" width="50%" alt="IMAGE ALT TEXT"></a>
+</div>
 * * *
 
 ## Hive
