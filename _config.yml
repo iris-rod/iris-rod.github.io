@@ -1,7 +1,7 @@
 title: Iris Rodrigues
 show_downloads: "false"
-description: Games portfolio
+description: 
 github:
   aboutme: aboutme.html
-  publications: publications.html
+  portfolio: portfolio.html
 theme: jekyll-theme-architect
