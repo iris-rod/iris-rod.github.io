@@ -17,12 +17,13 @@ This game had an initial version created during the classes of Game Design and a
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/DDJ6.png?raw=true" width="45%"/>
 </p>
 
-[42 Pieces of Story](https://www.youtube.com/watch?v=oQYL_AWhaRA&feature=youtu.be)
-
 In the second version, you are a young man living a quiet life in your small peacefull village, when suddenly everything changes. You wake up to a destroyed land where there used to be so much life. You begin your journey to try and rebuild your village, helping others and fnding out who turn your home into a hellish place.
+
+[42 Pieces of Story Trailer](https://www.youtube.com/watch?v=oQYL_AWhaRA&feature=youtu.be)
 
 ## Game to teach Organic Chemistry
 This is the final project of my MSc which I am currently working on. It is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
 
 The game is based on what the students need to learn in highschool and it has several challenges such as, creating molecules from scratch, transform a molecule from a functional group into another, complete a partially built molecule knowing what it's struture is and answering different questions about the molecules.
 
+[!https://i9.ytimg.com/vi/JUS8Cv2KCvs/2.jpg?sqp=CKSDgtsF&rs=AOn4CLDu-V0S0NRbcYrxhA2-b53CWGf-PA](https://www.youtube.com/watch?v=JUS8Cv2KCvs&feature=youtu.be)
