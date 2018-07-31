@@ -19,7 +19,9 @@ This game had an initial version created during the classes of Game Design and a
 
 In the second version, you are a young man living a quiet life in your small peacefull village, when suddenly everything changes. You wake up to a destroyed land where there used to be so much life. You begin your journey to try and rebuild your village, helping others and fnding out who turn your home into a hellish place.
 
-[42 Pieces of Story Trailer](https://www.youtube.com/watch?v=oQYL_AWhaRA&feature=youtu.be)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=oQYL_AWhaRA&feature=youtu.be"><img src="img/MDJVideo.png" width="50%" alt="IMAGE ALT TEXT"></a>
+</div>
 
 ## Game to teach Organic Chemistry
 This is the final project of my MSc which I am currently working on. It is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
