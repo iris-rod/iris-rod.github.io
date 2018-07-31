@@ -8,15 +8,17 @@ layout: default
 
 This was a game that I made in my final project in my BSc in Computer Engeneering and Multimedia. It is a turn-based fighting multiplayer game created in Unity that uses the Leap Motion sensor, allowing the player to use his own hands to play the game, instead of using the traditional keyboard and mouse or controller.
 
-<p align="left">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL6.png?raw=true" width="30%"/>
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL4.png?raw=true" width="30%"/>
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL5.png?raw=true" width="30%"/>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL6.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL4.png?raw=true" width="45%"/>
 </p>
-<p align="left">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL1.png?raw=true" width="30%"/>
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL2.png?raw=true" width="30%"/>
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL3.png?raw=true" width="30%"/>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL5.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL1.png?raw=true" width="45%"/>
+</p>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL3.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ISEL2.png?raw=true" width="45%"/>
 </p>
 
 <div align="center">
