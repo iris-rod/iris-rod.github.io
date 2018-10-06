@@ -4,6 +4,19 @@ layout: default
 
 # Other Projects
 
+
+## Breaking Dev 2018 Participation
+
+I participated in the Breaking Dev 2018 edition at Instituto Superior Técnico Campus TagusPark and created another multiplayer game, this time in a two-man team. We made it all from scratch, except the sounds. It was a full-on weekend of drawing and coding, but it was a lot of fun!
+
+Dare to face your fears in your own dreams with the help of your trust worthy teddy bear!
+
+[Keep Dreamin' GamePlay!] (https://www.youtube.com/watch?v=oz2d1VIaBFA&feature=youtu.be)
+
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/KD_screenshot.png?raw=true" width="40%"/>
+</p>
+
 ## Global Game Jam 2018 Participation
 I participated in the Global Game Jam 2018 edition and created a fun multiplayer game with some friends. 
 
@@ -17,8 +30,3 @@ Cooperate with your fellows to cross the border without getting caught by the Im
 </p>
 
 
-## Breaking Dev 2018 Participation
-
-I participated in the Breaking Dev 2018 edition at Instituto Superior Técnico Campus TagusPark and created another multiplayer game, this time in a two-man team. We made it all from scratch, except the sounds. It was a full-on weekend of drawing and coding, but it was a lot of fun!
-
-Dare to face your fears in your own dreams with the help of your trust worthy teddy bear!
