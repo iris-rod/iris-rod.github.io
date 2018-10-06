@@ -17,3 +17,8 @@ Cooperate with your fellows to cross the border without getting caught by the Im
 </p>
 
 
+## Breaking Dev 2018 Participation
+
+I participated in the Breaking Dev 2018 edition at Instituto Superior Técnico Campus TagusPark and created another multiplayer game, this time in a two-man team. We made it all from scratch, except the sounds. It was a full-on weekend of drawing and coding, but it was a lot of fun!
+
+Dare to face your fears in your own dreams with the help of your trust worthy teddy bear!
