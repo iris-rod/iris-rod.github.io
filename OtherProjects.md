@@ -11,7 +11,7 @@ I participated in the Breaking Dev 2018 edition at Instituto Superior Técnico C
 
 Dare to face your fears in your own dreams with the help of your trust worthy teddy bear!
 
-[Keep Dreamin' GamePlay!] (https://www.youtube.com/watch?v=oz2d1VIaBFA&feature=youtu.be)
+[Keep Dreamin' GamePlay!](https://www.youtube.com/watch?v=oz2d1VIaBFA&feature=youtu.be)
 
 <p align="center">
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/KD_screenshot.png?raw=true" width="40%"/>
