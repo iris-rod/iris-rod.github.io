@@ -16,9 +16,12 @@ Dare to face your fears in your own dreams with the help of your trust worthy te
 </p>
 
 
-## Game to teach Organic Chemistry
-This is the final project of my MSc which I am currently working on. It is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
+## Touch on Chemistry - Game to teach Organic Chemistry
+This is the final project of my MSc, it is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
 
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/4_small.png?raw=true" width="40%"/>
+</p>
 
 
 
