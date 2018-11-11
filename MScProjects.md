@@ -23,11 +23,11 @@ In the second version, you are a young man living a quiet life in your small pea
   <a href="https://www.youtube.com/watch?v=oQYL_AWhaRA&feature=youtu.be"><img src="img/MDJVideo.png" width="50%" alt="IMAGE ALT TEXT"></a>
 </div>
 
-## Game to teach Organic Chemistry
-This is the final project of my MSc which I am currently working on. It is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
+## Touch on Chemistry - Game to teach Organic Chemistry
+This is the final project of my MSc, it is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
 
 The game is based on what the students need to learn in highschool and it has several challenges such as, creating molecules from scratch, transform a molecule from a functional group into another, complete a partially built molecule knowing what it's struture is and answering different questions about the molecules.
 
 <div align="center">
-  <a href="https://youtu.be/JUS8Cv2KCvs"><img src="img/VideoMojo.png" width="50%" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=4wdTYYRPyVc&t=43s"><img src="img/VideoMojo.png" width="50%" alt="IMAGE ALT TEXT"></a>
 </div>
