@@ -29,5 +29,5 @@ This is the final project of my MSc, it is a game to teach Organic Chemistry to 
 The game is based on what the students need to learn in highschool and it has several challenges such as, creating molecules from scratch, transform a molecule from a functional group into another, complete a partially built molecule knowing what it's struture is and answering different questions about the molecules.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=4wdTYYRPyVc&t=43s"><img src="img/title screen msc.png" width="50%" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=4wdTYYRPyVc&t=43s"><img src="img/title screen - msc.png" width="50%" alt="IMAGE ALT TEXT"></a>
 </div>
