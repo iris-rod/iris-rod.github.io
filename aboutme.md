@@ -11,7 +11,6 @@ My MSc advisor is Prof. [Rui Prada](http://gaips.inesc-id.pt/rprada) from GAIPS 
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/IMG_1380.JPG?raw=true" alt="Participation at MOJO 2018 (Montra de Jogos) at IST." width="50%"/>
 </p>
 
-## Get in Touch
-igprodrigues125@gmail.com
+
 
 
