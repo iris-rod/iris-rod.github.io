@@ -7,7 +7,7 @@ layout: default
 
 ## Breaking Dev 2018 Participation
 
-I participated in the Breaking Dev 2018 edition at Instituto Superior Técnico Campus TagusPark and created another multiplayer game, this time in a two-man team. We made it all from scratch, except the sounds. It was a full-on weekend of drawing and coding, but it was a lot of fun!
+I participated in the Breaking Dev 2018 edition at Instituto Superior Técnico Campus TagusPark and created another multiplayer game, this time in a two-man team. We made it all from scratch, except the sounds and my focus was on all the art and animations, which was the first time I had ever done it. It was a full-on weekend of drawing and coding, but it was a lot of fun!
 
 Dare to face your fears in your own dreams with the help of your trust worthy teddy bear!
 
@@ -29,4 +29,5 @@ Cooperate with your fellows to cross the border without getting caught by the Im
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/GGJ.png?raw=true" width="40%"/>
 </p>
 
+My job on the team was to create differet types of traps to be set in different levels as a way to increase the difficulty as the players progress through the game.
 
