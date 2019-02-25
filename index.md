@@ -5,24 +5,25 @@ layout: default
 # Latest Projects
 
 
-## Breaking Dev 2018 Participation
+## Global Game Jam 2019 Participation
 
-I participated in the Breaking Dev 2018 edition at Instituto Superior Técnico Campus TagusPark and created another multiplayer game, this time in a two-man team. We made it all from scratch, except the sounds. It was a full-on weekend of drawing and coding, but it was a lot of fun!
-
-Dare to face your fears in your own dreams with the help of your trust worthy teddy bear!
+"It's cleaning day and the whole family has to clean up the house! However, not everyone agrees on what should go where. The toilet paper doesn't always show up in the bathroom, and some socks are stored away in the kitchen. Try to clean the house the way that makes you feel like home!"
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/KD_screenshot.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof1.png?raw=true" width="50%"/>
 </p>
 
+## Sugar Jam Participation
 
-## Touch on Chemistry - Game to teach Organic Chemistry
-This is the final project of my MSc, it is a game to teach Organic Chemistry to highschool students that uses Virtual Reality technology and the Leap Motion sensor. The player is immersed in a virtual world where he can grab atoms with his own hands and create and manipulate molecules.
+This game jam was a different experience from the previous game jams that I had already participated in, but still fun and a good opportunity to explore new things. The whole concept of this jam was to use Sugar, a social gamification asset that helps adding competitive, cooperative and goal based mechanics.
+
+[Diet Beat](https://ratuspro.itch.io/diet-beat)
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/4_small.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB1.png?raw=true" width="50%"/>
 </p>
 
+Find more about these projects on [Other Projects](https://iris-rod.github.io/portfolio/OtherProjects.html)!
 
 
 
