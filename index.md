@@ -4,6 +4,9 @@ layout: default
 
 # Latest Projects
 
+## Currently working on
+
+Right now, I'm focusing on developing my C++ knowledge through an Udemy course in Unreal.
 
 ## Global Game Jam 2019 Participation
 
