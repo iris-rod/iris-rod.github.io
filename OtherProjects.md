@@ -11,9 +11,14 @@ layout: default
 For this year Global Game Jam we had a pretty awesome team of 3 programmers (me included) and 1 artist, which meant we could create not only good gameplay mechanics but also cool and original art! My part on this jam consisted on randomnly generating the different items on the level and checking if the player was delivering the item to the right room. I also added some sound effects and special effects (the good old friends, particle systems) to enhance the feedback that the player had from the actions he performed.
 
 [Not Under My Roof!!!! Gameplay](https://www.youtube.com/watch?v=oz2d1VIaBFA&feature=youtu.be)
+[Not Under My Roof!!!!](https://globalgamejam.org/2019/games/not-under-my-roof)
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/KD_screenshot.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof1.png?raw=true" />
+</p>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof2.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof3.png?raw=true" width="45%"/>
 </p>
 
 ## Sugar Jam Participation
@@ -22,8 +27,18 @@ This game jam was a different experience from the previous game jams that I had 
 
 I made the robots parts and animated them using the Puppet 2D asset from Unity. This made it easier to create cool animations to the different body parts of the robot without having to create several sprites. It was a challenging and fun concept to tackle in this game jam and, although there are a lot of things I would improve, it was a good way to learn a bit more about animation.
 
+[Diet Beat](https://ratuspro.itch.io/diet-beat)
+
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/KD_screenshot.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB1.png?raw=true" width="40%"/>
+</p>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB2.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB3.png?raw=true" width="40%"/>
+</p>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB4.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB5.png?raw=true" width="40%"/>
 </p>
 
 ## Breaking Dev 2018 Participation
