@@ -14,7 +14,7 @@ For this year Global Game Jam we had a pretty awesome team of 3 programmers (me 
 [Not Under My Roof!!!!](https://globalgamejam.org/2019/games/not-under-my-roof)
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof1.png?raw=true" />
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof1.png?raw=true" width="50%"/>
 </p>
 <p align="center">
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof2.png?raw=true" width="45%"/>
@@ -30,7 +30,7 @@ I made the robots parts and animated them using the Puppet 2D asset from Unity. 
 [Diet Beat](https://ratuspro.itch.io/diet-beat)
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB1.png?raw=true" width="40%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB1.png?raw=true" width="50%"/>
 </p>
 <p align="center">
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB2.png?raw=true" width="40%"/>
