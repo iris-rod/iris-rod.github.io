@@ -3,12 +3,12 @@ layout: default
 ---
 
 ## About Me
-I am in my final year of MSc in Information Systems and Computer Engeneering at Instituto Superior Técnico (IST), Universidade de Lisboa. The focus of my MSc is in Video Games and Interaction and Visualization.
+Freshly graduated from my MSc in Information Systems and Computer Engeneering at Instituto Superior Técnico (IST), Universidade de Lisboa. The focus of my MSc was in Video Games and Interaction and Visualization, and I am currently working in my first full-time job at a tech company (but always hopefull for a future in video games).
 
-My MSc advisor is Prof. [Rui Prada](http://gaips.inesc-id.pt/rprada) from GAIPS at Instituto Superior Técnico, Universidade de Lisboa. I'm currently working on my dissertation on a game to teach Organic Chemistry to highschool students using Virtual Reality.
+Currently I'm focusing on learning C++ and fiddle around with the Unreal Engine, and I'm always down for a game jam.
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/IMG_1380.JPG?raw=true" alt="Participation at MOJO 2018 (Montra de Jogos) at IST." width="50%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/IMG_20190127_182631.jpg?raw=true" alt="Latest game jam (Global Game Jam 2019)" width="50%"/>
 </p>
 
 
