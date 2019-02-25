@@ -11,6 +11,7 @@ layout: default
 For this year Global Game Jam we had a pretty awesome team of 3 programmers (me included) and 1 artist, which meant we could create not only good gameplay mechanics but also cool and original art! My part on this jam consisted on randomnly generating the different items on the level and checking if the player was delivering the item to the right room. I also added some sound effects and special effects (the good old friends, particle systems) to enhance the feedback that the player had from the actions he performed.
 
 [Not Under My Roof!!!! Gameplay](https://www.youtube.com/watch?v=oz2d1VIaBFA&feature=youtu.be)
+
 [Not Under My Roof!!!!](https://globalgamejam.org/2019/games/not-under-my-roof)
 
 <p align="center">
