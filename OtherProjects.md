@@ -26,9 +26,9 @@ Download this game at [Not Under My Roof!!!!](https://globalgamejam.org/2019/gam
 
 ## Sugar Jam Participation
 
-This game jam was a different experience from the previous game jams that I had already participated in, but still fun and a good opportunity to explore new things. The whole concept of this jam was to use Sugar, a social gamification asset that helps adding competitive, cooperative and goal based mechanics. We were a team of 3, all programmers, and we decided to make a joust like game between robots. You built your robot with different parts (machine gun, shield, cannon,...) which are represented as cards, and fight other player's robot to win more cards. 
+This game jam was a different experience from the previous game jams that I had already participated in, but still fun and a good opportunity to explore new things. The whole concept of this jam was to use Sugar, a social gamification asset that helps adding competitive, cooperative and goal based mechanics. We were a team of 3, all programmers, and we decided to make a joust like game between robots. You built your robot with different parts (machine gun, shield, cannon,...) which are represented as cards, and fight other player's robot to win more cards. The judges of the game jam gaves the third place, which was really good and showed us that our hard work was recognized!
 
-I made the robots parts and animated them using the Puppet 2D asset from Unity. This made it easier to create cool animations to the different body parts of the robot without having to create several sprites. It was a challenging and fun concept to tackle in this game jam and, although there are a lot of things I would improve, it was a good way to learn a bit more about animation.
+I made the robots parts and animated them using the Puppet 2D asset from Unity. This made it easier to create cool animations to the different body parts of the robot without having to create several sprites. It was a challenging and fun concept to tackle in this game jam and, although there are a lot of things I would improve, it was a good way to learn a bit more about animation. 
 
 Find more about this game here: [Diet Beat](https://ratuspro.itch.io/diet-beat)
 
