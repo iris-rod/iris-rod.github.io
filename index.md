@@ -6,7 +6,7 @@ layout: default
 
 ## Currently working on
 
-Right now, I'm focusing on developing my C++ knowledge through an Udemy course in Unreal.
+Right now, I'm focusing on developing my C++ knowledge through an Udemy course in Unreal (85% done!) and also going back to the basics of C++ programming. My foundations on this language must be strong enough to learn more and improve.
 
 ## Global Game Jam 2019 Participation
 
