@@ -4,7 +4,7 @@ layout: default
 
 # Other Projects
 
-## Programmer projects
+## Programming projects
 
 There are projects where my main role was as a programmer. Fortunatelly, I've done some projects where we had an artist, so the programmers could focus entirely on programming and nothing else. This are the projects I love doing the most, since I can improve my abilities, work in a group of people with different responsabilities and knowledge and learn from them.
 
