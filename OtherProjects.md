@@ -4,7 +4,11 @@ layout: default
 
 # Other Projects
 
-## Global Game Jam 2019 Participation
+## Programmer projects
+
+There are projects where my main role was as a programmer. Fortunatelly, I've done some projects where we had an artist, so the programmers could focus entirely on programming and nothing else. This are the projects I love doing the most, since I can improve my abilities, work in a group of people with different responsabilities and knowledge and learn from them.
+
+### Global Game Jam 2019 Participation
 
 "It's cleaning day and the whole family has to clean up the house! However, not everyone agrees on what should go where. The toilet paper doesn't always show up in the bathroom, and some socks are stored away in the kitchen. Try to clean the house the way that makes you feel like home!"
 
@@ -24,7 +28,24 @@ Download this game at [Not Under My Roof!!!!](https://globalgamejam.org/2019/gam
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof3.png?raw=true" width="45%"/>
 </p>
 
-## Sugar Jam Participation
+### Global Game Jam 2018 Participation
+
+"Three amigos from the latino side of America want to feed their family and get a nice job in the land of the free. But there is only one passport! 
+Cooperate with your fellows to cross the border without getting caught by the Immigration Control."
+
+I participated in the Global Game Jam 2018 edition and created a fun multiplayer game with some friends. My job on the team was to create differet types of traps to be set in different levels as a way to increase the difficulty as the players progress through the game.
+
+Check out this fun little game at: [Juan Forrest Juan!](https://globalgamejam.org/2018/games/juan-forrest-juan)
+
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/GGJ.png?raw=true" width="40%"/>
+</p>
+
+## Artist projects
+
+These are projects that I participated more as an artist instead of a programmer. Although my focus is programming, I have some skills at drawing and animating, so when I'm in a group where we don't have any artist and we want to have coherent and original art, I take that role and my priority becomes the art. I enjoy doing these projects because it helps me to understand a little better the artist side, what they need to do, how they do it, how much time and requirements they need to do what they are asked, among other things.
+
+### Sugar Jam Participation
 
 This game jam was a different experience from the previous game jams that I had already participated in, but still fun and a good opportunity to explore new things. The whole concept of this jam was to use Sugar, a social gamification asset that helps adding competitive, cooperative and goal based mechanics. We were a team of 3, all programmers, and we decided to make a joust like game between robots. You built your robot with different parts (machine gun, shield, cannon,...) which are represented as cards, and fight other player's robot to win more cards. The judges of the game jam gaves the third place, which was really good and showed us that our hard work was recognized!
 
@@ -44,7 +65,7 @@ Find more about this game here: [Diet Beat](https://ratuspro.itch.io/diet-beat)
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/DB5.png?raw=true" width="40%"/>
 </p>
 
-## Breaking Dev 2018 Participation
+### Breaking Dev 2018 Participation
 
 "Dare to face your fears in your own dreams with the help of your trust worthy teddy bear!"
 
@@ -56,18 +77,7 @@ Check out the gameplay here: [Keep Dreamin' Gameplay](https://www.youtube.com/wa
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/KD_screenshot.png?raw=true" width="40%"/>
 </p>
 
-## Global Game Jam 2018 Participation
 
-"Three amigos from the latino side of America want to feed their family and get a nice job in the land of the free. But there is only one passport! 
-Cooperate with your fellows to cross the border without getting caught by the Immigration Control."
-
-I participated in the Global Game Jam 2018 edition and created a fun multiplayer game with some friends. My job on the team was to create differet types of traps to be set in different levels as a way to increase the difficulty as the players progress through the game.
-
-Check out this fun little game at: [Juan Forrest Juan!](https://globalgamejam.org/2018/games/juan-forrest-juan)
-
-<p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/GGJ.png?raw=true" width="40%"/>
-</p>
 
 
 
