@@ -10,7 +10,7 @@ There are projects where my main role was as a programmer. Fortunatelly, I've do
 
 ### Escape Room online course
 
-I created a small Escape Room type game through an online game development course for Unreal. The main mechanics introduced in the course are of opening doors by placing weighted objects on a trigger and when they are removed the doors close. I've added an extra mechanic based on this base one, where the door only opens when there is a specific object on the trigger, and it can be just one object or multiple.
+I created a small Escape Room type game through an online game development course for Unreal. The main mechanics introduced in the course are of opening doors by placing weighted objects on a trigger and when they are removed the doors close.
 
 This course was really good to learn, not only more about what Unreal offers and how to use it's components in the best way possible, but also to practice more C++ programming, since it only uses C++ classes and no blueprints. The course touched on several basic aspects of programming in general, like good programming practices and coder refactoring, and also some aspects specific to C++ language like pointers and memory. It didn't go to deep into any of these topics, it talked about it in a more general way so that less experienced programmers could understand it easily, but it's still great to make sure the basics are covered and fully understood.
 
