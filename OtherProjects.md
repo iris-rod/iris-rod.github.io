@@ -14,6 +14,8 @@ I created a small Escape Room type game through an online game development cours
 
 This course was really good to learn, not only more about what Unreal offers and how to use it's components in the best way possible, but also to practice more C++ programming, since it only uses C++ classes and no blueprints. The course touched on several basic aspects of programming in general, like good programming practices and coder refactoring, and also some aspects specific to C++ language like pointers and memory. It didn't go to deep into any of these topics, it talked about it in a more general way so that less experienced programmers could understand it easily, but it's still great to make sure the basics are covered and fully understood.
 
+The course taught how to implement two mechanics: grab objects and open doors by placing objects on triggers. From those mechanics we then should build a level with assets and the mechanics. I also implemented a small variation to the "open doors" mechanic, where instead of just using the weight to determine whether the door should open, it needs to be a specific item that is placed on the trigger and it might be necessary to use more than 1 item.
+
 It's still a work in progress, there are some tweaks and improvements I want to make, specially on the grab mechanic, but here is a small video with the result for now [Escape Room Gameplay](https://www.youtube.com/watch?v=lAG7DJLP4Wc&fbclid=IwAR2s-0OFEO4bl5hCrYkkphk93dvLu1vOGNSZ19BmfHMGL5sV4sVDTJ0R7y8) (It has some subtitles along that provide some explanation on the gameplay and how it is working)
 
 ### Global Game Jam 2020 Participation
