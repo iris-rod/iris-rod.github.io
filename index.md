@@ -4,6 +4,8 @@ layout: default
 
 # Latest Projects
 
+Find more about these projects and more on [Other Projects](https://iris-rod.github.io/portfolio/OtherProjects.html)!
+
 ## Currently working on
 
 Right now, I'm focusing on developing my C++ knowledge through an Udemy course in Unreal (85% done!) and also going back to the basics of C++ programming. My foundations on this language must be strong enough to learn more and improve.
@@ -21,7 +23,6 @@ I created a small Escape Room type game through an online game development cours
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof1.png?raw=true" width="50%"/>
 </p>
 
-Find more about these projects on [Other Projects](https://iris-rod.github.io/portfolio/OtherProjects.html)!
 
 
 
