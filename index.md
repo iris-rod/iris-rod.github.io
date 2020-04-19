@@ -21,7 +21,7 @@ Find more about this project on [Other Projects](https://iris-rod.github.io/port
 "Two Giant Stars have just merged together affecting several of the inhabited planets nearby, Many species are in danger of extinction, and it is up to you to change that. In Re-Evolution you are a robotic worker of the Re-adaptation Species Space Company working tirelessly to change the species of your planets representative clients."
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj7.png?raw=true" width="50%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/reevolution.png?raw=true" width="50%"/>
 </p>
 
 Find more about this project on [Other Projects](https://iris-rod.github.io/portfolio/OtherProjects.html)!
