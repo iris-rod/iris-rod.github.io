@@ -4,8 +4,6 @@ layout: default
 
 # Latest Projects
 
-Find more about these projects and more on [Other Projects](https://iris-rod.github.io/portfolio/OtherProjects.html)!
-
 ## Currently working on
 
 Right now, I'm focusing on developing my C++ knowledge through an Udemy course in Unreal (85% done!) and also going back to the basics of C++ programming. My foundations on this language must be strong enough to learn more and improve.
@@ -14,6 +12,9 @@ Right now, I'm focusing on developing my C++ knowledge through an Udemy course i
 
 I created a small Escape Room type game through an online game development course for Unreal. It was really good to get more familiar with the Unreal engine and also pratice more C++ programming.
 
+It's still a work in progress, there are some tweaks and improvements I want to make, specially on mechanics, but here is a small video with the result for now [Escape Room Gameplay](https://www.youtube.com/watch?v=lAG7DJLP4Wc&fbclid=IwAR2s-0OFEO4bl5hCrYkkphk93dvLu1vOGNSZ19BmfHMGL5sV4sVDTJ0R7y8) (It has some subtitles along that provide some explanation on the gameplay and how it is working)
+
+Find more about this project on [Other Projects](https://iris-rod.github.io/portfolio/OtherProjects.html)!
 
 ## Global Game Jam 2020 Participation
 
@@ -23,6 +24,7 @@ I created a small Escape Room type game through an online game development cours
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/NotUndeerMyRoof1.png?raw=true" width="50%"/>
 </p>
 
+Find more about this project on [Other Projects](https://iris-rod.github.io/portfolio/OtherProjects.html)!
 
 
 
