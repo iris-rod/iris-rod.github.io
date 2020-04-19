@@ -27,12 +27,12 @@ My role in this was combining the body parts with the animal essences to generat
 I worked on the game for a while after the jam ended to improve it and improve my skills at the same time.
 
 <p align="center">
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj1.png?raw=true" width="45%"/>
-    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj2.png?raw=true" width="45%"/>
-</p>
-<p align="center">
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj3.png?raw=true" width="45%"/>
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj4.png?raw=true" width="45%"/>
+</p>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj5.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj6.png?raw=true" width="45%"/>
 </p>
 
 ### Global Game Jam 2019 Participation
