@@ -12,7 +12,9 @@ There are projects where my main role was as a programmer. Fortunatelly, I've do
 
 I created a small Escape Room type game through an online game development course for Unreal. The main mechanics introduced in the course are of opening doors by placing weighted objects on a trigger and when they are removed the doors close. I've added an extra mechanic based on this base one, where the door only opens when there is a specific object on the trigger, and it can be just one object or multiple.
 
-This course was really good to learn, not only more about what Unreal offers and how to use it's components in the best way possible, but also to practice more C++ programming. The course touched on several basic aspects of programming in general, like good programming practices and coder refactoring, and also some aspects specific to C++ language like pointers and memory. It didn't go to deep into any of these topics, it talked about it in a more general way so that less experienced programmers could understand it easily, but it's still great to make sure the basics are covered and fully understood.
+This course was really good to learn, not only more about what Unreal offers and how to use it's components in the best way possible, but also to practice more C++ programming, since it only uses C++ classes and no blueprints. The course touched on several basic aspects of programming in general, like good programming practices and coder refactoring, and also some aspects specific to C++ language like pointers and memory. It didn't go to deep into any of these topics, it talked about it in a more general way so that less experienced programmers could understand it easily, but it's still great to make sure the basics are covered and fully understood.
+
+It's still a work in progress, there are some tweaks and improvements I want to make, specially on the grab mechanic, but here is a small video with the result for now [Escape Room Gameplay](https://www.youtube.com/watch?v=lAG7DJLP4Wc&fbclid=IwAR2s-0OFEO4bl5hCrYkkphk93dvLu1vOGNSZ19BmfHMGL5sV4sVDTJ0R7y8) (It has some subtitles along that provide some explanation on the gameplay and how it is working)
 
 ### Global Game Jam 2020 Participation
 
@@ -25,6 +27,8 @@ The game was heavily inspired by Overcooked where there are 'orders' that come i
 My role in this was combining the body parts with the animal essences to generate the correct combination, as well as the rails and order system, which included generation the orders, replacing the default body part on the doll with the body part that was shot through the cannon and the rails movement.
 
 I worked on the game for a while after the jam ended to improve it and improve my skills at the same time.
+
+Link to this submission on Global Game Jam 2020 at [Re-Evolution](https://globalgamejam.org/2020/games/re-evolution-1).
 
 <p align="center">
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj3.png?raw=true" width="45%"/>
