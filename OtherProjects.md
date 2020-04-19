@@ -8,6 +8,18 @@ layout: default
 
 There are projects where my main role was as a programmer. Fortunatelly, I've done some projects where we had an artist, so the programmers could focus entirely on programming and nothing else. This are the projects I love doing the most, since I can improve my abilities, work in a group of people with different responsabilities and knowledge and learn from them.
 
+### Global Game Jam 2020 Participation
+
+"Two Giant Stars have just merged together affecting several of the inhabited planets nearby, Many species are in danger of extinction, and it is up to you to change that. In RE-Evolution, you are a robotic worker of the Re-adaptation Species Space Company working tirelessly to change the species of your planets representative clients."
+
+In this Global Game Jam we were more artists than programmers, there were 3 artists and 2 programmers (one of them was me)! This meant that we had really good art and animations to work with, which made us really excited. Unfortunatelly, we were way too ambitious with our ideas and in the end, we left out some of the work the artists made because we didn't have time to add everything with the gameplay.
+
+The game was heavily inspired by Overcooked where there are 'orders' that come in and the players need to put the items together properly to deliver the 'order' correctly. In our case, the orders are combinations of body parts of different animals, for example, fish legs, duck head and crocodile body. To create the body parts, you have to pick up the essence of the animal and the body part, put them in the cauldron and it will combine the two to create the desired result. After that, you shoot it at the default doll passing by on the rails to set it! The game can have up to 4 players, creating more mayhem and caos when trying to get the orders right and get the most points.
+
+My role in this was combining the body parts with the animal essences to generate the correct combination, as well as the rails and order system, which included generation the orders, replacing the default body part on the doll with the body part that was shot through the cannon and the rails movement.
+
+I worked on the game for a while after the jam ended to improve it and improve my skills at the same time.
+
 ### Global Game Jam 2019 Participation
 
 "It's cleaning day and the whole family has to clean up the house! However, not everyone agrees on what should go where. The toilet paper doesn't always show up in the bathroom, and some socks are stored away in the kitchen. Try to clean the house the way that makes you feel like home!"
