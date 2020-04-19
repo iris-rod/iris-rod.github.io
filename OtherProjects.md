@@ -26,6 +26,15 @@ My role in this was combining the body parts with the animal essences to generat
 
 I worked on the game for a while after the jam ended to improve it and improve my skills at the same time.
 
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj1.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj2.png?raw=true" width="45%"/>
+</p>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj3.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ggj4.png?raw=true" width="45%"/>
+</p>
+
 ### Global Game Jam 2019 Participation
 
 "It's cleaning day and the whole family has to clean up the house! However, not everyone agrees on what should go where. The toilet paper doesn't always show up in the bathroom, and some socks are stored away in the kitchen. Try to clean the house the way that makes you feel like home!"
