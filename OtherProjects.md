@@ -8,6 +8,12 @@ layout: default
 
 There are projects where my main role was as a programmer. Fortunatelly, I've done some projects where we had an artist, so the programmers could focus entirely on programming and nothing else. This are the projects I love doing the most, since I can improve my abilities, work in a group of people with different responsabilities and knowledge and learn from them.
 
+### Escape Room online course
+
+I created a small Escape Room type game through an online game development course for Unreal. The main mechanics introduced in the course are of opening doors by placing weighted objects on a trigger and when they are removed the doors close. I've added an extra mechanic based on this base one, where the door only opens when there is a specific object on the trigger, and it can be just one object or multiple.
+
+This course was really good to learn, not only more about what Unreal offers and how to use it's components in the best way possible, but also to practice more C++ programming. The course touched on several basic aspects of programming in general, like good programming practices and coder refactoring, and also some aspects specific to C++ language like pointers and memory. It didn't go to deep into any of these topics, it talked about it in a more general way so that less experienced programmers could understand it easily, but it's still great to make sure the basics are covered and fully understood.
+
 ### Global Game Jam 2020 Participation
 
 "Two Giant Stars have just merged together affecting several of the inhabited planets nearby, Many species are in danger of extinction, and it is up to you to change that. In RE-Evolution, you are a robotic worker of the Re-adaptation Species Space Company working tirelessly to change the species of your planets representative clients."
