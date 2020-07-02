@@ -6,7 +6,7 @@ layout: default
 
 ## Currently working on
 
-Right now, I'm focusing on developing my C++ knowledge through an Udemy course in Unreal (85% done!) and also going back to the basics of C++ programming. My foundations on this language must be strong enough to learn more and improve.
+Right now, I'm focusing on developing my C++ knowledge by going back to the basics of C++ programming since my foundations on this language must be strong enough to learn more and improve. I'm using that knowledge to make a small game so that I'm still working within the context of game development, although it's still it's very early stages of development. You can follow its progress [here](https://github.com/iris-rod/PuzzleGame)
 
 ## Escape Room online course
 
