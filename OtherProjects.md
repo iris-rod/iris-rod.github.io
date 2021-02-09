@@ -34,6 +34,7 @@ Some of these things were added after the game jam ended, like the bushes, the p
 </p>
 
 If you want to play, you can download it from here: <a href="img/MustacheMeWhenImGone.zip">Download Mustache me when I'm gone</a> (Extract .zip file and play executable)
+
 Or you can check out our submission for the GGJ (it is slightly outdated): [Global Game Jam 2021 submission page](https://globalgamejam.org/2021/games/mustache-me-when-im-gone-9)
 
 ### Escape Room online course
