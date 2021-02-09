@@ -8,6 +8,34 @@ layout: default
 
 There are projects where my main role was as a programmer. Fortunatelly, I've done some projects where we had an artist, so the programmers could focus entirely on programming and nothing else. This are the projects I love doing the most, since I can improve my abilities, work in a group of people with different responsabilities and knowledge and learn from them.
 
+### Global Game Jam 2021 Participation
+
+"A game about a mustache trying to be reunited with his owner in a world were mustaches are illegal. OBJECTIVE: Help the mustache to be reunited with his owner: for this you need to find in which store in the town your owner is while avoid the BB (brigada do bigode or mustache's patrol). To help you to identify the correct store your owner is in keep an eye on the mustachometer that indicates how close you are, get inside the store and be reunited with your maker."
+
+In this year our team consisted of 2 programmers, so I also took on the role of 2D artist, which means that our game has very simple and goofy art style and animations. This time we decided to participate with a much more relaxed approach, so we didn't pull a all-nighter nor did we worry about making the best and most creative game ever. We just wanted to have fun making a bug-free game that we could run and show to others without saying "this was working before!", so we focused on very few mechanics and made sure that they were working properly. Another change this year was that we had a better planning: we planned and prioritised tasks each morning and night, we had regular checkpoints to merge our work and reorganise the tasks left and we were also better at version control with Git. I wholeheartedly believe that these two factors were the biggest contributes to successfully achieve our goal for this year's GGJ.
+
+In this game the player is a mustache that wanders around the town trying to find is owner while avoiding the mustache's patrol. The patrol will follow the player once they see it, and will stop if he goes out of sight or too far away, but if they catch him, the mustache is arrested and the player loses the game. The player can hide from the patrol by attaching itself to animals or objects, such as birds and bushes. Once attached, the patrol will not see them. To find out in which store the owner is located, the player must keep an eye in the mustacheometer which will indicate him how near he is to the correct store. Once he finds the owner, he wins the game.
+
+As I mentioned previously, I did all the art for this game, also some animations (bird's movement and water dripping from mustache). As a programmer I implemented:
+
+- Brigada do Bigode (mustache's patrol) movement and behaviour
+- Locking and unlocking the doors when mustache is being followed
+- Attaching and dettaching from objects and animals
+- Particle systems to indicate if the user can interact with the objects and animals
+- Main menu and transition between both scenes
+- Bird and bush behaviour
+- Entering and exiting the stores
+- Added some sound effects
+
+Some of these things were added after the game jam ended, like the bushes, the particle systems and the main menu. I wanted to polish the game a bit more and I'm happy with the result. Here's a small video showcasing the game: [Mustache me when I'm Gone Gameplay](https://youtu.be/-iSa1NYuzGU)
+
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/cover_GGJ21.png?raw=true" width="50%"/>
+</p>
+
+If you want to play, you can download it from here: <a href="img/MustacheMeWhenImGone.zip">Download Mustache me when I'm gone</a> (Extract .zip file and play executable)
+Or you can check out our submission for the GGJ (it is slightly outdated): [Global Game Jam 2021 submission page](https://globalgamejam.org/2021/games/mustache-me-when-im-gone-9)
+
 ### Escape Room online course
 
 I created a small Escape Room type game through an online game development course for Unreal. The main mechanics introduced in the course are of opening doors by placing weighted objects on a trigger and when they are removed the doors close.
