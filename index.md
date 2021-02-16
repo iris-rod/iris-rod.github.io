@@ -6,7 +6,7 @@ layout: default
 
 ## Currently working on
 
-Right now, I'm focusing on developing my C++ knowledge by going back to the basics of C++ programming since my foundations on this language must be strong enough to learn more and improve. I'm using that knowledge to make a small game so that I'm still working within the context of game development, although it's still it's very early stages of development. You can follow its progress [here](https://github.com/iris-rod/PuzzleGame)
+Right now, I'm focusing on developing my C++ knowledge by going back to the basics of C++ programming since my foundations on this language must be strong enough to learn more and improve. I'm working on smaller projects, trying to implement different mechanics and using different methods to broaden my skills. The latest project I made is a simple puzzle game which I'll be updating it's final results soon! You can follow its progress [here](https://github.com/iris-rod/PuzzleGame). The next challenge I'll take on will be on Unreal Engine.
 
 ## Global Game Jam 2021
 
