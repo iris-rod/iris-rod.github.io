@@ -8,6 +8,38 @@ layout: default
 
 There are projects where my main role was as a programmer. Fortunatelly, I've done some projects where we had an artist, so the programmers could focus entirely on programming and nothing else. This are the projects I love doing the most, since I can improve my abilities, work in a group of people with different responsabilities and knowledge and learn from them.
 
+### Puzzle tile game
+
+This is a small project that I started last year with the goal to improve my algorithm and general C++ knowledge. I also wanted to implement a simple event based system in this game. It was fully developed using SDL libraries on Visual Studio (no engines).
+
+To be completly honest, another goal was to have this project completed within a month, maybe two, however I had many moments were I was either too tired or unmotivated to pick it up and this made the implementation take a lot longer than what I wanted. I kept working on it, even if it was just 1 hour or 2 a week or every two weeks, because I would still be able to improve and see progress no matter how little or how slow it was, and I didn't want to leave this project unfinished. It is now completed and I'm happy and proud that I finished it and, more importantly, that I grew and learned from it.
+
+This game is very simple: there are pieces of different colors randomnly generated in columns and pushed into the board. Whenever there are 2 or more pieces of the same color connected to each other (either verticaly or horizontaly) you can click on them to remove them from the board and gain points. The goal is to reach the number of points to advance to the next level before the board reaches the end of the platform.
+
+The main focus of this project was on mechanics/algorithm and coding, which means that the art is extremely simple (every texture looks more like a placeholder instead of actual game art), I did not implement animations, there are also no sound effects or music. The algorithm I used to remove the same colored pieces and re-organise the board accordingly was:
+
+- Checked if the clicked piece has neighbours (verticaly or horizontaly) of the same color
+- Remove all pieces that are of the same color and neighbours of each other
+- Reorganise each column that had pieces removed to eliminate empty spaces on the bottom and/or in the middle of the column
+- Move columns back (to the right) if there is any empty column in the middle of the board
+
+The event system implemented uses a priority queue which allows for this specific order of events to happen: remove pieces (PIECE_REMOVED), organise columns (COLUMN_UPDATE) and then move columns (EMPTY_COLUMN). Each piece in the board is listening to the PIECE_REMOVED event which is triggered whenever a piece is removed. When this event is triggered, each piece will verify if the removed piece was their neighbour and if they share the same color and if it was, they will also be removed. The COLUMN_UPDATE event is also triggered when a piece is removed, but this event is only listened by the board which will reorganise the column to eliminate empty spaces, if there are any at the bottom or middle of the column. If the column turns out to be empty after organising it, the EMPTY_COLUMN event is triggered. This event is also only handled by the board and it will move the columns back to eliminate this empty column, if it is in the middle of the board.
+
+To make the game a bit more dynamic I also added a button that allows the player to add a new column immediately instead of waiting the hardcoded x amount of time for it to be generated. This addition removes the scenario where the player is stuck waiting for a new column to be generated when there are no more pieces that he can remove from the current state of the board.
+
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ore_main.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ore_in_game.png?raw=true" width="45%"/>
+</p>
+<p align="center">
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ore_lost.png?raw=true" width="45%"/>
+    <img src="https://github.com/iris-rod/portfolio/blob/master/img/ore_next_level.png?raw=true" width="45%"/>
+</p>
+
+If you want to play it, you can download it from here: <a href="img/PuzzleGame.zip">Download game</a> (Extract .zip file and play executable that is inside the Release folder)
+
+If you're keen to check the code, you can go [here](https://github.com/iris-rod/PuzzleGame)
+
 ### Global Game Jam 2021 Participation
 
 "A game about a mustache trying to be reunited with his owner in a world were mustaches are illegal. OBJECTIVE: Help the mustache to be reunited with his owner: for this you need to find in which store in the town your owner is while avoid the BB (brigada do bigode or mustache's patrol). To help you to identify the correct store your owner is in keep an eye on the mustachometer that indicates how close you are, get inside the store and be reunited with your maker."
@@ -33,7 +65,7 @@ Some of these things were added after the game jam ended, like the bushes, the p
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/cover_GGJ21.png?raw=true" width="50%"/>
 </p>
 
-If you want to play, you can download it from here: <a href="img/MustacheMeWhenImGone.zip">Download Mustache me when I'm gone</a> (Extract .zip file and play executable)
+If you want to play it, you can download it from here: <a href="img/MustacheMeWhenImGone.zip">Download Mustache me when I'm gone</a> (Extract .zip file and play executable)
 
 Or you can check out our submission for the GGJ (it is slightly outdated): [Global Game Jam 2021 submission page](https://globalgamejam.org/2021/games/mustache-me-when-im-gone-9)
 
