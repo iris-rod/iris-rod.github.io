@@ -14,16 +14,20 @@ This is a small project that I started last year with the goal to improve my alg
 
 To be completly honest, another goal was to have this project completed within a month, maybe two, however I had many moments were I was either too tired or unmotivated to pick it up and this made the implementation take a lot longer than what I wanted. I kept working on it, even if it was just 1 hour or 2 a week or every two weeks, because I would still be able to improve and see progress no matter how little or how slow it was, and I didn't want to leave this project unfinished. It is now completed and I'm happy and proud that I finished it and, more importantly, that I grew and learned from it.
 
-This game is very simple: there are pieces of different colors randomnly generated in columns and pushed into the board. Whenever there are 2 or more pieces of the same color connected to each other (either verticaly or horizontaly) you can click on them to remove them from the board and gain points. The goal is to reach the number of points to advance to the next level before the board reaches the end of the platform.
+This game is very simple: there are pieces of different colours randomly generated in columns and pushed into the board every x seconds. Whenever there are 2 or more pieces of the same colour connected to each other (either verticaly or horizontaly) you can click on them to remove them from the board and gain points. The goal is to reach the number of points to advance to the next level before the board reaches the end of the platform.
 
 The main focus of this project was on mechanics/algorithm and coding, which means that the art is extremely simple (every texture looks more like a placeholder instead of actual game art), I did not implement animations, there are also no sound effects or music. The algorithm I used to remove the same colored pieces and re-organise the board accordingly was:
 
-- Checked if the clicked piece has neighbours (verticaly or horizontaly) of the same color
-- Remove all pieces that are of the same color and neighbours of each other
+- Checked if the clicked piece has neighbours (verticaly or horizontaly) of the same colour
+- Remove all pieces that are of the same colour and neighbours of each other
 - Reorganise each column that had pieces removed to eliminate empty spaces on the bottom and/or in the middle of the column
-- Move columns back (to the right) if there is any empty column in the middle of the board
+- Move columns back (to the right) if there is any empty column
 
-The event system implemented uses a priority queue which allows for this specific order of events to happen: remove pieces (PIECE_REMOVED), organise columns (COLUMN_UPDATE) and then move columns (EMPTY_COLUMN). Each piece in the board is listening to the PIECE_REMOVED event which is triggered whenever a piece is removed. When this event is triggered, each piece will verify if the removed piece was their neighbour and if they share the same color and if it was, they will also be removed. The COLUMN_UPDATE event is also triggered when a piece is removed, but this event is only listened by the board which will reorganise the column to eliminate empty spaces, if there are any at the bottom or middle of the column. If the column turns out to be empty after organising it, the EMPTY_COLUMN event is triggered. This event is also only handled by the board and it will move the columns back to eliminate this empty column, if it is in the middle of the board.
+The event system implemented uses a priority queue which allows for this specific order of events to happen: remove pieces (PIECE_REMOVED), organise columns (COLUMN_UPDATE) and then move columns (EMPTY_COLUMN). 
+
+- Whenever a piece is removed the PIECE_REMOVED event is triggered which is listened by every piece on the board. This event allows the pieces to verify if the removed one was their neighbour and if they share the same colour. If both conditions are true, then they should be removed as well.
+- The COLUMN_UPDATE event is also triggered when a piece is removed, but this event is only listened by the board which will reorganise the column to eliminate empty spaces, if there are any at the bottom or middle of the column. 
+- If the column turns out to be empty after organising it, the EMPTY_COLUMN event is triggered. This event is also only handled by the board and it will move the columns back to eliminate this empty column if it's not the last column.
 
 To make the game a bit more dynamic I also added a button that allows the player to add a new column immediately instead of waiting the hardcoded x amount of time for it to be generated. This addition removes the scenario where the player is stuck waiting for a new column to be generated when there are no more pieces that he can remove from the current state of the board.
 
