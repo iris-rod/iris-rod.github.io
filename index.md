@@ -6,8 +6,7 @@ layout: default
 
 ## Currently working on
 
-Right now, I'm focusing on developing my C++ knowledge by going back to the basics of C++ programming since my foundations on this language must be strong enough to learn more and improve. I just finished a small project using only SDL libraries and the next challenge I'll take on will be on Unreal Engine. Stay tune for more updates!
-
+Right now, I'm focusing on my new job which involves new technologies and languages, so no new projects in sight for now, but stay tune for any updates!
 
 ## Puzzle tile game
 
