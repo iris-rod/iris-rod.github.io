@@ -8,7 +8,7 @@ Graduated from my MSc in Information Systems and Computer Engeneering at Institu
 
 Recently started working at Miniclip as a Junior Software Programmer after working in mobile apps development for a couple of years.
 
-Currently I'm focusing on learning C++ and fiddle around with the Unreal Engine, and I'm always down for a game jam.
+Currently I'm focusing on my new job and going back to some old hobbies, but I'm always down for a game jam.
 
 <p align="center">
     <img src="https://github.com/iris-rod/portfolio/blob/master/img/IMG_20190127_182631.jpg?raw=true" alt="Latest game jam (Global Game Jam 2019)" width="50%"/>
